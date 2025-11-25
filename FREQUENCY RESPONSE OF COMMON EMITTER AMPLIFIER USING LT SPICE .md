@@ -30,6 +30,7 @@
 ## Graph
 <img width="914" height="475" alt="Screenshot 2025-11-23 125556" src="https://github.com/user-attachments/assets/0fdec07d-18ed-4e6e-9d68-826324f7e5ae" />
 
+<img width="1069" height="540" alt="image" src="https://github.com/user-attachments/assets/6bbe8f20-144f-4c94-ac55-ea4e36d11fae" />
 
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
